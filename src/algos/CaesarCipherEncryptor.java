@@ -1,7 +1,5 @@
 package algos;
 
-import java.util.Arrays;
-
 public class CaesarCipherEncryptor {
 
 	private static String caesarCypherEncryptor(String str, int key) {
